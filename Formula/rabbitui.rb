@@ -4,9 +4,9 @@
 class Rabbitui < Formula
   desc "Terminal-UI for the RabbitMQ management API"
   homepage "https://github.com/maxmindlin/rabbitui"
-  url "https://github.com/maxmindlin/rabbitui/releases/download/v0.1.0/rabbitui-mac.tar.gz"
-  sha256 "7b62aa2eb6e04c6243f3c6f746332b5de7bb7d5f871e4f99f27c3e8fbbff7e81"
-  version "0.1.0"
+  url "https://github.com/maxmindlin/rabbitui/releases/download/v0.2.0/rabbitui-mac.tar.gz"
+  sha256 "d21bfc97f9e5f2bd08f0d31cd041e4fea1f5bb0e38a5eacd0f92720ebb2878bc"
+  version "0.2.0"
 
   def install
     bin.install "rabbitui"
